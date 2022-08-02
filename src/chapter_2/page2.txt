@@ -10,3 +10,6 @@ Businesses using Git can break down communication barriers between teams and kee
 
 page 2
 text
+
+page 2 more information
+
